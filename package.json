@@ -17,7 +17,7 @@
     "helmet": "^4.4.1",
     "http": "^0.0.1-security",
     "https": "^1.0.0",
-    "mysql2": "^2.2.5",
+    "mysql2": "^3.9.7",
     "xmlbuilder2": "^2.4.0"
   },
   "devDependencies": {
